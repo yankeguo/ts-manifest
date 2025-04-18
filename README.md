@@ -8,7 +8,7 @@
 
 - `ts-manifest -cache` to cache all `deno` dependencies
 
-- `ts-manifest` to evaluate every `.ts` files in the current directory with `deno`, and all `default` exports will be combined into a Kubernetes yaml manifest.
+- `ts-manifest` to evaluate every `.ts` files in the current directory with `deno`, and all `default` exports will be combined into a Kubernetes `List` json.
 
 ## Credits
 
